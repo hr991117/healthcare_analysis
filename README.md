@@ -30,7 +30,7 @@ To set up the project on your local machine and view the Power BI dashboard, fol
     cd healthcare-data-patient-wait-list
     ```
 
-3. Open the Power BI report file (`powerbi/Main.pbix`) in Power BI Desktop.
+3. Open the Power BI report file (`Main.pbix`) in Power BI Desktop.
 
 4. If necessary, update the data source settings to point to the location of your dataset files.
 
