@@ -1,6 +1,6 @@
-#Healthcare Data - Patient Wait List
+# Healthcare Data - Patient Wait List
 
-#Overall Objective
+# Overall Objective
 
 Project Goals
 1) Track Current Status of Patient Waiting List.
