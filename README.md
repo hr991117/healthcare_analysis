@@ -40,10 +40,10 @@ To set up the project on your local machine and view the Power BI dashboard, fol
 
 ## Results
 - **Summary Page**: Presents an overview of the average, median, and total waiting lists with visualizations.
-     Here is snippet of this page.
+- Here is snippet of this page.
    ![Summary Page](https://github.com/user-attachments/assets/34d7aff0-fbf1-471b-9d16-c90b3a5376c0)
 - **Detailed Page**: Provides in-depth analysis by specialty and age profile with interactive charts and graphs.
-    Here is snippet of this page.
+-  Here is snippet of this page.
    ![Detailed Page](https://github.com/user-attachments/assets/8a34535a-69fc-46f8-94b0-125350ddb7d4)
 
 ## Contributing
