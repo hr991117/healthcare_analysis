@@ -19,11 +19,6 @@ The project includes the following views:
 1. **Summary Page**: Provides an overview of key metrics and trends.
 2. **Detailed Page**: Offers granular analysis for deeper insights.
 
-## Project Structure
-- `data/`: Contains the dataset files.
-- `powerbi/`: Power BI report files (.pbix).
-- `README.md`: This file.
-
 ## Setup and Installation
 To set up the project on your local machine and view the Power BI dashboard, follow these steps:
 
@@ -42,11 +37,14 @@ To set up the project on your local machine and view the Power BI dashboard, fol
 ## Usage
 1. Open the Power BI report in Power BI Desktop to explore the data and visualizations.
 2. Interact with the dashboard by using filters and slicers to drill down into specific metrics and trends.
-3. Publish the report to the Power BI Service to share it with others.
 
 ## Results
 - **Summary Page**: Presents an overview of the average, median, and total waiting lists with visualizations.
+     Here is snippet of this page.
+   ![Summary Page](https://github.com/user-attachments/assets/34d7aff0-fbf1-471b-9d16-c90b3a5376c0)
 - **Detailed Page**: Provides in-depth analysis by specialty and age profile with interactive charts and graphs.
+    Here is snippet of this page.
+   ![Detailed Page](https://github.com/user-attachments/assets/8a34535a-69fc-46f8-94b0-125350ddb7d4)
 
 ## Contributing
 If you would like to contribute to this project, please follow these steps:
